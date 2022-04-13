@@ -4,3 +4,4 @@ Esse é um repositório de teste utilizado para estudos na disciplina de Gerenci
 ## Colaboradores
 Coloque seu nome abaixo se você é um dos colaboradores do repositório:
 * Izavan dos Santos Correia (@IzavanCorreia)
+* Ramide Dantas (@ramidedantas)
