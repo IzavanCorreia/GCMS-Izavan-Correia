@@ -6,6 +6,8 @@ public class HelloWorld {
 		
 		System.out.println("Olá mundo!");
 		System.out.println("Modificação 1");
+		System.out.println("Modificação 2");
+		System.out.println("última modificação");
 
 	}
 
